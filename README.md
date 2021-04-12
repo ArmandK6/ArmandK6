@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArmandK6
 - 👀 I’m interested in programming with python
-- 🌱 I’m currently improving my python skills
+- 🌱 I’m currently learning C and improving my python skills
 - 🌏 I'm able to speak Dutch (native), English (fluent) and Japanese (N5)
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me: armandk06.git@gmail.com
